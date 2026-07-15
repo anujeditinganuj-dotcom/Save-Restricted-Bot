@@ -1,12 +1,4 @@
 # Netscape HTTP Cookie File
-# Paste your exported YouTube (youtube.com) cookies below this line.
-# Export using a browser extension like "Get cookies.txt LOCALLY" while
-# logged into YouTube, then replace this file's contents with that export.
-# Format (tab-separated): domain  flag  path  secure  expiry  name  value
-
-
-
-# Netscape HTTP Cookie File
 # https://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file! Do not edit.
 
